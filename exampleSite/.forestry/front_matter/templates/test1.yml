@@ -1,4 +1,12 @@
 ---
 label: test1
 hide_body: false
-fields: []
+fields:
+- name: fgwdg
+  type: list
+  config:
+    use_select: false
+    min: "-2"
+    max: '5'
+  label: fgwdg
+  description: dfwgdfg
